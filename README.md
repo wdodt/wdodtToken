@@ -1,5 +1,5 @@
 # wfodtToken
-The World's First Proof-of-Stake Smart Contract Token on Ethereum
+Proof-of-Stake Smart Contract Token on Ethereum
 
 ## What is wdodtToken
 wdodtToken is fork of PoSToken - Proof-of-Stake smart contract token on Ethereum platform. It's based on the ERC20 Token Standard and implements all standard methods. As an Ethereum token, wdodtToken implements the Proof-of-Stake mechanism, meaning that every holder can earn some extra tokens just by holding wdodtToken for a period of at least 3 days, greater than or equal to The Minimum Coin Age.
