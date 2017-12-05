@@ -10,8 +10,8 @@ wdodtToken is fork of PoSToken - Proof-of-Stake smart contract token on Ethereum
 * **Decimals**: 18
 * **Standard**: ERC20 & PoSTokenStandard
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 10,000,000 POS
-* **Initial Supply**: 1,000,000 POS
+* **Maximum Total Supply**: 10,000,000 WDO
+* **Initial Supply**: 1,000,000 WDO
 * **Distribution**: Free Airdrop
 * **Minimum Coin Age**: 3 Days
 * **Maximum Coin Age**: 90 Days
