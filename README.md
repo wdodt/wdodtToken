@@ -1,4 +1,4 @@
-# wfodtToken
+# wdodtToken
 Proof-of-Stake Smart Contract Token on Ethereum
 
 ## What is wdodtToken
@@ -21,4 +21,4 @@ wdodtToken is fork of PoSToken - Proof-of-Stake smart contract token on Ethereum
   + 3rd - 15th Year Interest: 10%
 
 ## Resource
-**[Website](https://github.com/wdodt/wdodtToken)* | **[Whitepaper](https://postoken.org/whitepaper.pdf)** | **[Twitter](https://twitter/PoSToken)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2110712.0)** | **[Slack](https://join.slack.com/t/postoken/shared_invite/enQtMjQ1OTA0MzA4MDAxLThjNWQxNjllNzEyM2VhMDYzMzc3N2I1MDc4NmU3NDM5YzFkNTJlZGIxMmEzMTZmOTgxN2MyYzhkNmYzYzY1MDM)** | **[Telegram](https://t.me/PoSToken)**
+**[Website](https://github.com/wdodt/wdodtToken)**| **[Whitepaper](https://postoken.org/whitepaper.pdf)** | **[Twitter](https://twitter/PoSToken)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2110712.0)** | **[Slack](https://join.slack.com/t/postoken/shared_invite/enQtMjQ1OTA0MzA4MDAxLThjNWQxNjllNzEyM2VhMDYzMzc3N2I1MDc4NmU3NDM5YzFkNTJlZGIxMmEzMTZmOTgxN2MyYzhkNmYzYzY1MDM)** | **[Telegram](https://t.me/PoSToken)**
