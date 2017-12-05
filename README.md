@@ -6,7 +6,7 @@ wdodtToken is fork of PoSToken - Proof-of-Stake smart contract token on Ethereum
 
 ## Specifications of wdodtToken
 * **Name**: wdodtToken
-* **Symbol**: POS
+* **Symbol**: WDO
 * **Decimals**: 18
 * **Standard**: ERC20 & PoSTokenStandard
 * **Platform**: Ethereum
